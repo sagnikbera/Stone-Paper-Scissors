@@ -24,3 +24,4 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 This project is licensed under the MIT License, allowing you to use and modify the code for your own purposes.
 
 <h3>Live Link</h3>
+https://sagnikbera.github.io/Stone-Paper-Scissors/
