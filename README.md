@@ -3,7 +3,8 @@
 **Stone-Paper-Scissors Game**
 Welcome to the Stone-Paper-Scissors Game repository! This is a simple and interactive game built using HTML, CSS, and JavaScript. Challenge yourself against the computer with this classic game of strategy and quick decision-making.
 
-<h3>How to Play<h3>
+<h3>How to Play</h3>
+  
 Clone or download the repository to your local machine.
 Open the index.html file in your web browser.
 Click on one of the icons (Stone, paper, or scissors) to make your move.
