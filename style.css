@@ -44,7 +44,7 @@ img{
     justify-content: center;
     align-items: center;
     gap:  100px;
-    margin: 10vh;
+    margin: 6vh;
     cursor: pointer;
 }
 
@@ -111,7 +111,7 @@ img{
     .choices{
         flex-wrap: wrap;
         gap: 15px;
-        margin: 5vh;
+        margin: 3vh;
         padding-top: 1rem;
     }
 
